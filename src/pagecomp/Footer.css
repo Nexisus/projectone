@@ -1,0 +1,14 @@
+/* Szary- 58, 59, 61
+Czerwony- 240, 50, 50
+Szary2-71, 67, 67
+Biały-250, 245, 245 */
+
+.Footer{
+    margin-left: 30px;
+    margin-right: 30px;
+    border-top: 2px solid rgb(240, 50, 50) ;
+    border-left: 2px solid rgb(240, 50, 50) ;
+    border-right: 2px solid rgb(240, 50, 50);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px ;
+}

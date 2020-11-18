@@ -1,0 +1,36 @@
+/* Szary- 58, 59, 61
+Czerwony- 240, 50, 50
+Szary2-71, 67, 67
+Biały-250, 245, 245 */
+
+.btn {
+    font-family: 'Sansita Swashed', cursive;
+    font-weight:500;
+    border:none;
+    cursor: pointer;
+    transition: 0.2s ease;
+    text-decoration: none;
+    text-transform: uppercase;
+    outline: none;
+}
+button:active, button:focus {
+    outline: 0;
+    outline-style: none;
+  }
+/* btn col & styles */
+
+.btn--primary--full {
+    color: white;
+    border-radius: 10px;
+    background-color: rgb(71, 67, 67);
+}
+.btn--primary--full:hover{
+    background-color:rgb(58, 59, 61)  ;
+}
+
+/* btn size  */
+.btn--medium{
+    padding: 5px 15px;
+    margin: 10px;
+    font-size: 20px;
+}

@@ -1,0 +1,19 @@
+/* Szary- 58, 59, 61
+Czerwony- 240, 50, 50
+Szary2-71, 67, 67
+Biały-250, 245, 245 */
+
+.App{
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: auto ;
+    grid-template-rows: 8% 1000px 80px ;
+}
+
+@media screen and (max-width: 1000px){
+
+    .App{
+        grid-template-rows: auto 1000px 80px;
+    }
+}

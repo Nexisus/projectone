@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/projectone/static/css/main.840d15ed.chunk.css",
-    "main.js": "/projectone/static/js/main.c651336b.chunk.js",
-    "main.js.map": "/projectone/static/js/main.c651336b.chunk.js.map",
+    "main.css": "/projectone/static/css/main.093629a3.chunk.css",
+    "main.js": "/projectone/static/js/main.7267fceb.chunk.js",
+    "main.js.map": "/projectone/static/js/main.7267fceb.chunk.js.map",
     "runtime-main.js": "/projectone/static/js/runtime-main.3b602263.js",
     "runtime-main.js.map": "/projectone/static/js/runtime-main.3b602263.js.map",
     "static/js/2.5740faa8.chunk.js": "/projectone/static/js/2.5740faa8.chunk.js",
     "static/js/2.5740faa8.chunk.js.map": "/projectone/static/js/2.5740faa8.chunk.js.map",
     "index.html": "/projectone/index.html",
-    "static/css/main.840d15ed.chunk.css.map": "/projectone/static/css/main.840d15ed.chunk.css.map",
+    "static/css/main.093629a3.chunk.css.map": "/projectone/static/css/main.093629a3.chunk.css.map",
     "static/js/2.5740faa8.chunk.js.LICENSE.txt": "/projectone/static/js/2.5740faa8.chunk.js.LICENSE.txt",
     "static/media/logo.03a3b40d.png": "/projectone/static/media/logo.03a3b40d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3b602263.js",
     "static/js/2.5740faa8.chunk.js",
-    "static/css/main.840d15ed.chunk.css",
-    "static/js/main.c651336b.chunk.js"
+    "static/css/main.093629a3.chunk.css",
+    "static/js/main.7267fceb.chunk.js"
   ]
 }

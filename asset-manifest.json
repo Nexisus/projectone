@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/projectone/static/css/main.34ec8d72.chunk.css",
-    "main.js": "/projectone/static/js/main.fdba5ab7.chunk.js",
-    "main.js.map": "/projectone/static/js/main.fdba5ab7.chunk.js.map",
+    "main.css": "/projectone/static/css/main.a92ecf91.chunk.css",
+    "main.js": "/projectone/static/js/main.9fde0fb6.chunk.js",
+    "main.js.map": "/projectone/static/js/main.9fde0fb6.chunk.js.map",
     "runtime-main.js": "/projectone/static/js/runtime-main.3b602263.js",
     "runtime-main.js.map": "/projectone/static/js/runtime-main.3b602263.js.map",
     "static/js/2.cdc981d9.chunk.js": "/projectone/static/js/2.cdc981d9.chunk.js",
     "static/js/2.cdc981d9.chunk.js.map": "/projectone/static/js/2.cdc981d9.chunk.js.map",
     "index.html": "/projectone/index.html",
-    "static/css/main.34ec8d72.chunk.css.map": "/projectone/static/css/main.34ec8d72.chunk.css.map",
+    "static/css/main.a92ecf91.chunk.css.map": "/projectone/static/css/main.a92ecf91.chunk.css.map",
     "static/js/2.cdc981d9.chunk.js.LICENSE.txt": "/projectone/static/js/2.cdc981d9.chunk.js.LICENSE.txt",
     "static/media/2.889c709e.jpg": "/projectone/static/media/2.889c709e.jpg",
     "static/media/logo.03a3b40d.png": "/projectone/static/media/logo.03a3b40d.png"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.3b602263.js",
     "static/js/2.cdc981d9.chunk.js",
-    "static/css/main.34ec8d72.chunk.css",
-    "static/js/main.fdba5ab7.chunk.js"
+    "static/css/main.a92ecf91.chunk.css",
+    "static/js/main.9fde0fb6.chunk.js"
   ]
 }
